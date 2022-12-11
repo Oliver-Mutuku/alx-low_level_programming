@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-	char lowercase;
+3-print_alphabets.c	char lowercase;
 
 	for (lowercase = 'a'; lowercase <= 'z'; lowercase++)
 	{
